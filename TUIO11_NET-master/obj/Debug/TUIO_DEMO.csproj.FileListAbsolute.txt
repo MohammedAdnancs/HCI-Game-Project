@@ -1,0 +1,7 @@
+C:\Users\medoa\Desktop\HCI-Project-master\TUIO11_NET-master\bin\Debug\TuioDemo.exe.config
+C:\Users\medoa\Desktop\HCI-Project-master\TUIO11_NET-master\bin\Debug\TuioDemo.exe
+C:\Users\medoa\Desktop\HCI-Project-master\TUIO11_NET-master\bin\Debug\TuioDemo.pdb
+C:\Users\medoa\Desktop\HCI-Project-master\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.AssemblyReference.cache
+C:\Users\medoa\Desktop\HCI-Project-master\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\medoa\Desktop\HCI-Project-master\TUIO11_NET-master\obj\Debug\TuioDemo.exe
+C:\Users\medoa\Desktop\HCI-Project-master\TUIO11_NET-master\obj\Debug\TuioDemo.pdb
